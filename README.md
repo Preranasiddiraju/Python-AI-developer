@@ -18,7 +18,7 @@ Installation & Setup
 1. Clone the repository
 #bash
 
-git clone https://github.com/Preranasiddiraju/csv-processing-app.git
+git clone https://github.com/Preranasiddiraju/Python-AI-developer.git
 cd csv-processing-app
 
 3. Set up a virtual environment (optional but recommended)
